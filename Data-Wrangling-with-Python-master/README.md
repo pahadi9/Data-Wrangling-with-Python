@@ -85,7 +85,6 @@
 * reshaping (pivoting)
 
 
-
 ## How to address date in Python
 * What is datetime in Python
 * Introduction to Timestamp
